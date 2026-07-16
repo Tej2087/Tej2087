@@ -12,4 +12,4 @@ B.Tech student specializing in Artificial Intelligence and Machine Learning at V
 * **Frameworks & Core Tools:** Git, Google AI Studio, Unreal Engine 5
 
 ### Professional Network
-* **Connect:** (www.linkedin.com/in/tejendra-sesha-saroj-chevendra-aba2672a8)
+* **Connect:** www.linkedin.com/in/tejendra-sesha-saroj-chevendra-aba2672a8

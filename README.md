@@ -1,4 +1,4 @@
-# Tejendra Sesha Saroj
+# Tejendra Sesha Saroj Chevendra
 
 B.Tech student specializing in Artificial Intelligence and Machine Learning at VIT-AP University. Focused on intelligent systems design, algorithmic efficiency, and cross-platform software engineering.
 

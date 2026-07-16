@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Tejendra! 🚀
 
-<!--
-**Tej2087/Tej2087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🎓 B.Tech Student in **Artificial Intelligence & Machine Learning** at VIT-AP University
+- 💻 Passionate about Software Development, Data Structures & Algorithms (DSA), and AI Systems
+- 🛠️ Currently building application projects and leveling up my problem-solving skills
 
-Here are some ideas to get you started:
+### 🧰 Tech Stack & Skills
+- **Languages:** Python, Java
+- **Core Focus:** Algorithm Optimization, Logic & Systems Design
+- **Interests:** Interactive Media & Game Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let's Connect:** www.linkedin.com/in/tejendra-sesha-saroj-chevendra-aba2672a8
